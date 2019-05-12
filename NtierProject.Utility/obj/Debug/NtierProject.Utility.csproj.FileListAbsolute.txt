@@ -1,0 +1,12 @@
+C:\Users\hasan.sahinbas\source\repos\NtierProject\NtierProject.Utility\bin\Debug\NtierProject.Utility.dll
+C:\Users\hasan.sahinbas\source\repos\NtierProject\NtierProject.Utility\bin\Debug\NtierProject.Utility.pdb
+C:\Users\hasan.sahinbas\source\repos\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.csprojAssemblyReference.cache
+C:\Users\hasan.sahinbas\source\repos\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\hasan.sahinbas\source\repos\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.dll
+C:\Users\hasan.sahinbas\source\repos\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.pdb
+C:\Users\IŞIKLAR\Desktop\NtierProject\NtierProject.Utility\bin\Debug\NtierProject.Utility.dll
+C:\Users\IŞIKLAR\Desktop\NtierProject\NtierProject.Utility\bin\Debug\NtierProject.Utility.pdb
+C:\Users\IŞIKLAR\Desktop\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.csprojAssemblyReference.cache
+C:\Users\IŞIKLAR\Desktop\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\IŞIKLAR\Desktop\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.dll
+C:\Users\IŞIKLAR\Desktop\NtierProject\NtierProject.Utility\obj\Debug\NtierProject.Utility.pdb
